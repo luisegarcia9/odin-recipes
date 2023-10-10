@@ -1,0 +1,1 @@
+The next project is about implementing a website for recipies. The main page is the index page, from this page you can gain access to a list of recipies. This project is a basic website build only with html 
